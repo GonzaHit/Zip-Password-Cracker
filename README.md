@@ -12,8 +12,8 @@ Este script en Bash intenta descomprimir un archivo ZIP protegido por contraseñ
 \#\#\# Clona el repositorio
 
 \`\`\`bash  
-git clone \<URL\_del\_repositorio\>  
-cd \<nombre\_del\_repositorio\>
+git clone[ \<URL\_del\_repositorio\>  ](https://github.com/GonzaHit/Zip-Password-Cracker.git)
+cd \<Zip-Password-Cracker>
 
 Asigna permisos de ejecución al script  
 Bash  
