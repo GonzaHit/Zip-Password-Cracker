@@ -7,14 +7,18 @@ Tener el archivo ZIP protegido por contraseña.
 Tener un diccionario de contraseñas (por ejemplo, rockyou.txt).
 
 Uso
+
 Clona el repositorio
 bash git clone https://github.com/GonzaHit/Zip-Password-Cracker.git  
+
 cd <nombre_del_repositorio>
 
 Asigna permisos de ejecución al script
+
 bash chmod +x descomprimir_zip.sh
 
 Ejecuta el script
+
 bash ./descomprimir_zip.sh
 
 
